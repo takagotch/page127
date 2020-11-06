@@ -1,5 +1,6 @@
-### (Page127)[https://takagotch.github.io//page127/]
-###### https://takagotch.github.io/page127/
+### [Page127](https://takagotch.github.io//page127/)
+
+https://takagotch.github.io//page127/
 ---
 
 ```
